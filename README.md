@@ -3,8 +3,8 @@ Practice with a book named 'Modern PHP'
 
 
 
-## namespace - 20251213
+## namespace
 
-### global namespace
+### 1. global namespace  - 20251213
 [How i understand namespace](https://github.com/AmondChocolateShake/modern-php/blob/main/namespace/namespace-test.md)
 
